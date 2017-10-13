@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+go.cgddgc.cn	FALSE	/	FALSE	1508479288	sid	631bd74221928e1adcc3b59c9a31b6912394e4fd367856dbb661e213220c73f3

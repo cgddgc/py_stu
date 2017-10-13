@@ -1,0 +1,16 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.csdn.net	TRUE	/	FALSE		AU	17F
+.csdn.net	TRUE	/	FALSE	1539412290	BT	1507876290825
+.csdn.net	TRUE	/	FALSE		UD	%E5%A4%A7%E7%A5%9E
+.csdn.net	TRUE	/	FALSE	1539412287	UE	"cgddgc@foxmail.com"
+.csdn.net	TRUE	/	FALSE	1539412290	UN	cgddgc
+.csdn.net	TRUE	/	FALSE		UserInfo	vuLiheGqe8jvmoycXmmdb1Y9qxtfpqac6vwPudbJV9k2yVeby7XG2YEkw%2BxDg2d%2F3XLJ0PkeIUl3R6sNmcdvd%2BQH3kdwoKGdImDHCoqI5WKnl3Ikx8xRgLa8P6sASxvr
+.csdn.net	TRUE	/	FALSE		UserName	cgddgc
+.csdn.net	TRUE	/	FALSE		UserNick	cgddgc
+.csdn.net	TRUE	/	FALSE		access-token	cec1c88c-5e74-49ef-8722-5e14ec93b192
+passport.csdn.net	FALSE	/	TRUE		CASTGC	TGT-50465-eGDbOaOioLw2QjgxWvxKBvRYw7pxVOPMKbV7ky69GldbTvnheZ-passport.csdn.net
+passport.csdn.net	FALSE	/	FALSE		JSESSIONID	24C4FB762C9E4FCCDBA135BF8800CE95.tomcat2
+passport.csdn.net	FALSE	/	TRUE	1510468290	LSSC	LSSC-157628-xKA5NLbtTrtOeC3u5h4gf3YgHdWgQy-passport.csdn.net

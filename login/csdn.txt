@@ -1,0 +1,21 @@
+.csdn.net	TRUE	/	FALSE	AU	17F
+.csdn.net	TRUE	/	FALSE	1539401486	BT	1507865486360
+.csdn.net	TRUE	/	FALSE	Hm_lpvt_3f9df99a208b69b45eb52cfbe2dc3bf8	1507863476
+.csdn.net	TRUE	/	FALSE	Hm_lpvt_6bcd52f51e9b3dce32bec4a3997715ac	1507865485
+.csdn.net	TRUE	/	FALSE	1539399475	Hm_lvt_3f9df99a208b69b45eb52cfbe2dc3bf8	1507863476
+.csdn.net	TRUE	/	FALSE	1539401484	Hm_lvt_6bcd52f51e9b3dce32bec4a3997715ac	1507862417,1507863472,1507864834,1507864908
+.csdn.net	TRUE	/	FALSE	UD	%E5%A4%A7%E7%A5%9E
+.csdn.net	TRUE	/	FALSE	1539401483	UE	"cgddgc@foxmail.com"
+.csdn.net	TRUE	/	FALSE	1519698971	UM_distinctid	15e2bd8a26d195-0c25ab5bda0786-40544130-100200-15e2bd8a26e2e2
+.csdn.net	TRUE	/	FALSE	1539401486	UN	cgddgc
+.csdn.net	TRUE	/	FALSE	UserInfo	vuLiheGqe8jvmoycXmmdb1Y9qxtfpqac6vwPudbJV9k2yVeby7XG2YEkw%2BxDg2d%2F3XLJ0PkeIUl3R6sNmcdvd%2BQH3kdwoKGdImDHCoqI5WKnl3Ikx8xRgLa8P6sASxvr
+.csdn.net	TRUE	/	FALSE	UserName	cgddgc
+.csdn.net	TRUE	/	FALSE	UserNick	cgddgc
+.csdn.net	TRUE	/	FALSE	1570603481	__utma	17226283.1429487966.1505792729.1505792729.1507531481.2
+.csdn.net	TRUE	/	FALSE	1523299481	__utmz	17226283.1505792729.1.1.utmcsr=baidu|utmccn=(organic)|utmcmd=organic
+.csdn.net	TRUE	/	FALSE	access-token	a7bb7237-dd56-4cfb-85c7-40472d5eb62f
+my.csdn.net	FALSE	/	FALSE	1662449847	bdshare_firstime	1504683447235
+.csdn.net	TRUE	/	FALSE	3326968182	cache_cart_num	0
+.csdn.net	TRUE	/	FALSE	dc_session_id	1507857043460_0.4462548802012307
+.csdn.net	TRUE	/	FALSE	1507879886	dc_tos	oxqsge
+.csdn.net	TRUE	/	FALSE	1819251791	uuid_tt_dd	-3270354801616336167_20170828
